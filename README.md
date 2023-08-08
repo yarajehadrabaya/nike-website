@@ -18,5 +18,5 @@ ________________________________________________________________________________
 ###### CSS
 ###### NOTE: "Responsive for laptop and computer only"
 _______________________________________________________________________________________________________________________
-### Watch a video presentation of the site:
+### Click On The Image To Watch A Video Presentation Of The Site:
 [![Watch Now](https://img.youtube.com/vi/HSoVk4y3Kbw/maxresdefault.jpg)](https://www.youtube.com/watch?v=HSoVk4y3Kbw)
