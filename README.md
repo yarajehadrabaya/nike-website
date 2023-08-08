@@ -4,7 +4,7 @@
 it is a Cosmetics-website .
 The goal of this website is to display and sell skin care products
 ### 🌍 Live Demo :
-[Nike Landing Page](https://nike10.netlify.app]) - "Responsive for laptop and computer only"
+[Nike Landing Page](https://nike10.netlify.app) - "Responsive for laptop and computer only"
 ### Authors:
 * 	👩💻Yara Jehad Rabaya
 ### Adapted from:
